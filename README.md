@@ -1,4 +1,4 @@
-![demo](https://github.com/wakewakame/Pooop/blob/master/demo/demo.gif?raw=true)  
+<img src="https://github.com/wakewakame/Pooop/blob/master/demo/demo.gif?raw=true" width="320">  
 
 大学3年のときに作った作品です。  
 ボールを落下させ、ブロックを消してハイスコアを狙います。  
