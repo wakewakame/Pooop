@@ -7,9 +7,10 @@
 
 # 使い方
 WindowsにVisual Studioをインストールする。  
-その後、`Pooop.sln`を開いて実行を押す。  
+その後、`Pooop.sln`を開いて`開始`を押す。  
 
-# プロトタイプ
+# プロトタイプの実行
 ![demo](https://github.com/wakewakame/Pooop/blob/master/demo/prototype.gif?raw=true)  
 `Pooop\Form1.cs`を`prototype\Form1.cs`に置き換える。  
-その後、`Pooop.sln`を開いて実行を押す。  
+次に、Visual Studioの`ビルド`から`Pooopのリビルド`を押す。  
+最後に`開始`を押す。  
