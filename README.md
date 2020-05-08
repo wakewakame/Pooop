@@ -8,3 +8,8 @@
 # 使い方
 WindowsにVisual Studioをインストールする。  
 その後、`Pooop.sln`を開いて実行を押す。  
+
+# プロトタイプ
+![demo](https://github.com/wakewakame/Pooop/blob/master/demo/prototype.gif?raw=true)  
+`Pooop\Form1.cs`を`prototype\Form1.cs`に置き換える。  
+その後、`Pooop.sln`を開いて実行を押す。  
